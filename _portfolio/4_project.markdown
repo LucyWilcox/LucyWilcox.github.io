@@ -43,8 +43,8 @@ Frugal Finley embraces minimalism to reduce their spending.
 We decided to move forward focusing on Meditative Madison and Environmentalist Emory.
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/needvalasp.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/howmightwe.jpg" alt="" title="example image"/>
+	<img class="col two" src="{{ site.baseurl }}/img/needvalasp.jpg" alt="" title="example image"/>
+	<img class="col two" src="{{ site.baseurl }}/img/howmightwe.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
 	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
