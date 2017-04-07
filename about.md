@@ -1,10 +1,18 @@
 ---
 layout: default
-title: Lucy Wilcox
+title: about
 permalink: /about/
 ---
 
 <img class="col one right" src="/img/prof_pic.jpg">
+
+<div class="header-bar">
+  <h1>Lucy Wilcox</h1>
+  <h2>simple whitespace theme</h2>
+  <br/>
+  <hr>
+  <br/>
+</div>
 
 <br/>
 Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
