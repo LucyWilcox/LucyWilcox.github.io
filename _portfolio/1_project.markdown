@@ -2,7 +2,7 @@
 layout: post
 title: OSS Security on the Open Hub
 description: Aligning the Open Hub with Black Ducks direction
-img: /img/VpV2.JPG
+img: /img/VpV.JPG
 ---
 
 I made Black Ducks’s OpenHub.com, a wiki for OSS, more aligned with the company’s direction by introducing project security information. First I explored site usage data, created user personas, and determined some high level use cases. I combined this with research on what information sources were available to us and how we could integrate with them to make a plan that my team member, Ashrith, and I could move forward with. We then developed proof-of-concepts for many different graphs.  
