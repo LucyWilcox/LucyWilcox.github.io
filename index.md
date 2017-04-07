@@ -7,7 +7,7 @@ title: about
 
 <div class="header-bar">
   <h1>Lucy Wilcox</h1>
-  <h2>simple whitespace theme</h2>
+  <h2>Product Management & Software Engineering</h2>
   <br/>
   <hr>
   <br/>
