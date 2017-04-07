@@ -34,7 +34,7 @@ Skills: Highcharts, user workflows, mock-ups, OmniGraffle, documentation, Jira
 <div class="col three caption">
 	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
-<div class="img_row">
+<div class="row">
 	<img class="col three" src="{{ site.baseurl }}/img/Width1366Finalv3.png" alt="" title="example image"/>
 </div>
 <div class="col three caption">
