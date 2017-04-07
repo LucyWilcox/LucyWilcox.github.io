@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Software Design Course Assistant
-description: a project with a background image
+title: Software Design
+description: Course Assistant
 img: /img/olin2.jpg
 ---
 
