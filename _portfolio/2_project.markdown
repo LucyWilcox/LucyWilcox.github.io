@@ -2,7 +2,7 @@
 layout: post
 title: Black Duck GitHub Integration
 description: a project with a background image
-img: /img/github3.jpg
+img: /img/github3.JPG
 ---
 
 I explored what types of integrations best used the areas of strength in Black Duck's solution to the issue of OSS security and license compliance. I proposed both a plan for GitHub Enterprise user who also subscribe to Black Duck's product and one for open source project owners who want to use Black Duck.
@@ -16,6 +16,9 @@ What I learned
 - Creating a proof of concept makes it much easier for a project to be picked up and completed.  
 
 For: Product Management at Black Duck Software
+
 Durning: Summer 2016
+
 Collaborators: Utsav Sanghani, PMs at Black Duck
+
 Skills: Jenkins, Java
