@@ -34,12 +34,13 @@ Skills: Highcharts, user workflows, mock-ups, OmniGraffle, documentation, Jira
 <div class="col three caption">
 	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
-<div class="row">
+<div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/Width1366Finalv3.png" alt="" title="example image"/>
 </div>
 <div class="col three caption">
 	This image can also have a caption. It's like magic. 
 </div>
+<img class="col three" src="{{ site.baseurl }}/img/Width1366Finalv3.png" alt="" title="example image"/>
 
 You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
 
