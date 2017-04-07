@@ -3,7 +3,7 @@ layout: default
 title: about
 ---
 
-<img class="col one right" src="/img/prof_pic.jpg">
+<img class="col one right" src="/img/lucyimagee.jpg">
 
 <div class="header-bar">
   <h1>Lucy Wilcox</h1>
