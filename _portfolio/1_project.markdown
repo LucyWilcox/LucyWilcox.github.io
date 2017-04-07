@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OSS Security on the Open Hub
-description: a project with a background image
+description: Aligning the Open Hub with Black Ducks direction
 img: /img/VpV.JPG
 ---
 
@@ -35,9 +35,4 @@ Skills: Highcharts, user workflows, mock-ups, OmniGraffle, documentation, Jira
 <img class="col three" src="{{ site.baseurl }}/img/Width1366ProjectSecurity.png" alt="" title="example image"/>
 <div class="col three caption">
 	Project security drilldown page.
-</div>
-
-<img class="col three" src="{{ site.baseurl }}/img/SS2.png" alt="" title="example image"/>
-<div class="col three caption">
-	Close up of security graphic.
 </div>
