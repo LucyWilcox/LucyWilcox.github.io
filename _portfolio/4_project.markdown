@@ -9,7 +9,7 @@ MindFlo is an app that enable users to understand, reflect, and improve on their
 ​  
 MindFlo is designed for the most unreceptive group for new products, minimalist, but is applicable to anyone who wants to improve their relationship with technology. Decisions about what general product direction the team would head in and specific design requirements were determined by extensive user interviews and co-designs.
 
-What I learned:
+<b> What I learned: </b>
 
 - Getting lift-off from users without feeling the need to design exactly what they ask for.
 - The words you use to describe what you're designing are crucial.
@@ -17,13 +17,13 @@ What I learned:
 - Sometimes talking as a group is conducive to ideating, but five minute silent sessions with sharing and discussion are also important!
 - Test your ideas out with real data / in real situations to understand concretely how they will behave. 
 
-For: User Centered Collaborative Design Course at Olin College
+<b>For: </b>User Centered Collaborative Design Course at Olin College
 
-During: Winter/Spring 2016
+<b>During: </b>Winter/Spring 2016
 
-Collaborators: Sunny Shroff, Elizabeth Sundsmo, Melissa Tong, Jason Lan 
+<b>Collaborators: </b>Sunny Shroff, Elizabeth Sundsmo, Melissa Tong, Jason Lan 
 
-Skills: user interviews, co-design, personas, user workflows, Photoshop
+<b>Skills: </b>user interviews, co-design, personas, user workflows, Photoshop
 
 <img class="col three" src="{{ site.baseurl }}/img/MMPersona.jpg" alt="" title="example image"/>
 <div class="col three caption">
