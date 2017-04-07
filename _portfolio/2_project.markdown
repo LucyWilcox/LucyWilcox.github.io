@@ -18,14 +18,14 @@ My solution for GitHub Enterprise users was to leverage Black Duck's plugin with
 
 I also proposed an integration for Open Source projects which uses Black Duck's OpenHub.net and Shields.io.
 
-What I learned
+<b>What I learned: </b>
 - Different users can require very different solutions.
 - Creating a proof of concept makes it much easier for a project to be picked up and completed.  
 
-For: Product Management at Black Duck Software
+<b>For: </b>Product Management at Black Duck Software
 
-During: Summer 2016
+<b>During: </b>Summer 2016
 
-Collaborators: Utsav Sanghani- PM at Black Duck
+<b>Collaborators: </b>Utsav Sanghani- PM at Black Duck
 
-Skills: Jenkins, Java
+<b>Skills: </b>Jenkins, Java

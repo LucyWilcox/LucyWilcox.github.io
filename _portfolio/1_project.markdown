@@ -11,20 +11,20 @@ I then held demos and communicated with engineering, UI/UX, and marketing to sel
   
 I also proposed, documented, and started implementation of an integration with GitHub in my last few weeks. 
 
-What I learned:
+<b>What I learned:</b>
 
 - It's fine to spend time brainstorming and doing proof of concepts for a lot of ideas then throw most of them away and use what your learned.  
 - How to architect a technical solution, though I won't be the implementing it all.  
 - Though I planned what engineering would focused on, any decision I made impacted all departments - keep in communication with them. 
 - Writing really really good JIRA tickets :)  
 
-For: Product Management at Black Duck Software
+<b>For: </b>Product Management at Black Duck Software
 
-During: Summer 2016
+<b>During: </b>Summer 2016
 
-Collaborators: Ashrith Bangi- Software Development Intern 
+<b>Collaborators: </b>Ashrith Bangi- Software Development Intern 
 
-Skills: Highcharts, user workflows, mock-ups, OmniGraffle, documentation, Jira
+<b>Skills: </b>Highcharts, user workflows, mock-ups, OmniGraffle, documentation, Jira
 
 
 <img class="col three" src="{{ site.baseurl }}/img/Width1366Finalv3.png" alt="" title="example image"/>
