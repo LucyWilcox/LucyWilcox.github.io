@@ -26,7 +26,7 @@ Collaborators: Sunny Shroff, Elizabeth Sundsmo, Melissa Tong, Jason Lan
 
 Skills: user interviews, co-design, personas, user workflows, Photoshop
 
-<img class="col three" src="{{ site.baseurl }}/img/MMPersonal.jpg" alt="" title="example image"/>
+<img class="col three" src="{{ site.baseurl }}/img/MMPersona.jpg" alt="" title="example image"/>
 <div class="col three caption">
 	Creating personas from interviews.
 </div>
