@@ -42,13 +42,20 @@ Frugal Finley embraces minimalism to reduce their spending.
 
 We decided to move forward focusing on Meditative Madison and Environmentalist Emory.
 
-<div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/needvalasp.jpg" alt="" title="example image"/>
-	<img class="col two" src="{{ site.baseurl }}/img/howmightwe.jpg" alt="" title="example image"/>
-</div>
+From here we teased out the most pressing issues minimalists face and what we could do to alleviate them.
+
+<img class="col three" src="{{ site.baseurl }}/img/needvalasp.jpg" alt="" title="example image"/>
 <div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+	Creating personas from interviews.
 </div>
+
+<img class="col three" src="{{ site.baseurl }}/img/howmightwe.jpg" alt="" title="example image"/>
+<div class="col three caption">
+	Creating personas from interviews.
+</div>
+
+
+
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
 </div>
