@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Black Duck GitHub Integration
-description: a project with a background image
+description: Black Duck policy violations status pushed to GitHub
 img: /img/github3.JPG
 ---
 
@@ -17,8 +17,15 @@ What I learned
 
 For: Product Management at Black Duck Software
 
-Durning: Summer 2016
+During: Summer 2016
 
 Collaborators: Utsav Sanghani, PMs at Black Duck
 
 Skills: Jenkins, Java
+
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/github3.JPG" alt="" title="example image"/>
+</div>
+<div class="col three caption">
+	Checks if build failed due to Black Duck security or licensing violations within GitHub.  
+</div>
