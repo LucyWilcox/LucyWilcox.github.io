@@ -7,6 +7,8 @@ img: /img/select7.jpg
 
 <img class="col three" src="{{ site.baseurl }}/img/Poster-page-001.jpg" alt="" title="example image"/>
 
+<br>
+
 MindFlo is an app that enable users to understand, reflect, and improve on their interaction with technology. MindFlo is designed to be potentially feasible in twenty years and come in the form of a wooden sticker that can be placed on the back of a laptop or electronic device. In theory it could use wireless energy transfer and electro-magnetic waves to power itself and determine what applications and sites the user is visiting. By taking the form of a sticker, MindFlo separates itself from the technology people sometimes struggle with, and doesn't add additional clutter into one's life. MindFlo does not judgementally tell users what their habits should be, but instead provides them with a meaningful visualization of their online patterns so that they can take control and make changes!  
 ​  
 MindFlo is designed for the most unreceptive group for new products, minimalist, but is applicable to anyone who wants to improve their relationship with technology. Decisions about what general product direction the team would head in and specific design requirements were determined by extensive user interviews and co-designs.
