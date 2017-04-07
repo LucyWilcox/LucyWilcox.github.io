@@ -1,8 +1,8 @@
 ---
 layout: post
-title: OSS Security on the Open Hub
-description: Aligning the Open Hub with Black Ducks direction
-img: /img/VpV.JPG
+title: MindFlo
+description: An app for minimalist- understand, reflect, improve
+img: /img/select7.jpg
 ---
 
 MindFlo is an app that enable users to understand, reflect, and improve on their interaction with technology. MindFlo is designed to be potentially feasible in twenty years and come in the form of a wooden sticker that can be placed on the back of a laptop or electronic device. In theory it could use wireless energy transfer and electro-magnetic waves to power itself and determine what applications and sites the user is visiting. By taking the form of a sticker, MindFlo separates itself from the technology people sometimes struggle with, and doesn't add additional clutter into one's life. MindFlo does not judgementally tell users what their habits should be, but instead provides them with a meaningful visualization of their online patterns so that they can take control and make changes!  
