@@ -2,7 +2,7 @@
 layout: post
 title: Software Engineering Intern
 description: NGP VAN
-img: /img/van.png
+img: /img/van2.png
 ---
 
 I developed payment processor API routes, resolved issues customers experienced, and refactored legacy code. Worked with the team to beginning planning and implementation of a new feature on NGP VAN's MiniVan, a mobile canvasing application.
