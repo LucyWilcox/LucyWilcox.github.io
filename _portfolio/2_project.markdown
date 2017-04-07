@@ -1,55 +1,21 @@
 ---
 layout: post
-title: Project
+title: Black Duck GitHub Integration
 description: a project with a background image
-img: /img/2.jpg
+img: /img/github3.jpg
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+I explored what types of integrations best used the areas of strength in Black Duck's solution to the issue of OSS security and license compliance. I proposed both a plan for GitHub Enterprise user who also subscribe to Black Duck's product and one for open source project owners who want to use Black Duck.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
+My solution for GitHub Enterprise users was to leverage Black Duck's plugin with Jenkins and Jenkin's plugin with GitHub to push status to GitHub. These status allowed users to see if each commit they push to GitHub and pull request they make passes or fails their Black Duck policies. I then went on to implement a proof of concept for this solution that engineering could verify and release.
 
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
-	---
+I also proposed an integration for Open Source projects which uses Black Duck's OpenHub.net and Shields.io.
 
+What I learned
+- Different users can require very different solutions.
+- Creating a proof of concept makes it much easier for a project to be picked up and completed.  
 
-<div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	This image can also have a caption. It's like magic. 
-</div>
-
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
-
-
-<div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-<br/><br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
-
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
-	</div>
+For: Product Management at Black Duck Software
+Durning: Summer 2016
+Collaborators: Utsav Sanghani, PMs at Black Duck
+Skills: Jenkins, Java

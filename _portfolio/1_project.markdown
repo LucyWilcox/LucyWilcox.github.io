@@ -5,17 +5,18 @@ description: a project with a background image
 img: /img/12.jpg
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+I made Black Ducks’s OpenHub.com, a wiki for OSS, more aligned with the company’s direction by introducing project security information. First I explored site usage data, created user personas, and determined some high level use cases. I combined this with research on what information sources were available to us and how we could integrate with them to make a plan that my team member, Ashrith, and I could move forward with. We then developed proof-of-concepts for many different graphs.  
+  
+I then held demos and communicated with engineering, UI/UX, and marketing to select a final set of displays and a new, responsive, page layout. After writing detailed product specifications and users stories the rest of the Open Hub team started the development of the project.  
+  
+I also proposed, documented, and started implementation of an integration with GitHub in my last few weeks. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
-
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
-	---
-
+What I learned:
+  
+- It's fine to spend time brainstorming and doing proof of concepts for a lot of ideas then throw most of them away and use what your learned.  
+- How to architect a technical solution, though I won't be the implementing it all.  
+- Though I planned what engineering would focused on, any decision I made impacted all departments - keep in communication with them. 
+- Writing really really good JIRA tickets :)  
 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
