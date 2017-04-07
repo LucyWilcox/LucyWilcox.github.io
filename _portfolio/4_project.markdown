@@ -46,12 +46,12 @@ From here we teased out the most pressing issues minimalists face and what we co
 
 <img class="col three" src="{{ site.baseurl }}/img/needvalasp.jpg" alt="" title="example image"/>
 <div class="col three caption">
-	Creating personas from interviews.
+	Needs, values, aspirations, motivations, and sacrifices for each persona. 
 </div>
 
 <img class="col three" src="{{ site.baseurl }}/img/howmightwe.jpg" alt="" title="example image"/>
 <div class="col three caption">
-	Creating personas from interviews.
+	Posing "How might we?" questions for minimalist to help us ideate solutions.
 </div>
 
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: Lucy Wilcox
 permalink: /about/
 ---
 
