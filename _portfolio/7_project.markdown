@@ -7,18 +7,22 @@ img: /img/1.jpg
 
 Created an explict parametric polymorphic typed language that can be used via a shell interface. Previously in this class we created several different interpreters and parsers. My partner and I built off of this work to create a language which checks types before evaluating. 
 
-It can compute imputs such as:
+It can compute imputs such as
+
 	---
 	(+ 3 4)  -> 7
 	---
 
-But will reject:
+But will reject
+
 	---
 	(+ 3 false) -> error
 	---
+
 And return an error code.
 
 The language can also handle first class functions.
+
 	---
 	(defun add1 (a) ( int) (+ a 1) )
 	(defun istrue (a) ( bool) true )
@@ -27,7 +31,8 @@ The language can also handle first class functions.
 	(map (map true istrue) add1)  -> error
 	---
 
-Generic types can also be used:
+Generic types can also be used
+
 	---
 	(defun map2 (a b) ((-> (<T>) <S>) <T>) (a b))
 	(map2 add1 (map2 add1 3))   -> 5
@@ -42,7 +47,7 @@ Generic types can also be used:
 
 
 <b>What I learned:</b>
--aoeu
+- Parsing can be very difficult
 -aoeeu
 
 <b>Website: </b>: <a href="https://github.com/LucyWilcox/PL-2016/blob/master/final.py">On GitHub</a>
