@@ -23,13 +23,13 @@ And return an error code.
 
 The language can also handle first class functions.
 
-	---
+	{% highlight python %} 
 	(defun add1 (a) ( int) (+ a 1) )
 	(defun istrue (a) ( bool) true )
 	(defun map (a b) (<T> (-> (<T>) <S>)) (b a))
 	(map (map 3 add1) add1)   -> 5
 	(map (map true istrue) add1)  -> error
-	---
+	{% endhighlight %}
 
 And generic types.
 
