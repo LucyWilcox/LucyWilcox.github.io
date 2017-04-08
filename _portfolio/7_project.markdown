@@ -47,8 +47,7 @@ And generic types.
 
 
 <b>What I learned:</b>
-- Parsing can be very difficult
-- aoeeu
+- You need to have a good model in your head of the language as you build it.
 
 <b>Website: </b> <a href="https://github.com/LucyWilcox/PL-2016/blob/master/final.py">On GitHub</a>
 
