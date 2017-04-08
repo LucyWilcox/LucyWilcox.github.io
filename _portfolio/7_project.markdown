@@ -47,7 +47,7 @@ And generic types.
 
 
 <b>What I learned:</b>
-- You need to have a good model in your head of the language as you build it.
+- It's a lot easier to build a language out when you have a good model of it in your head.
 
 <b>Website: </b> <a href="https://github.com/LucyWilcox/PL-2016/blob/master/final.py">On GitHub</a>
 
