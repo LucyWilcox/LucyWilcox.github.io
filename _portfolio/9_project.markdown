@@ -1,55 +1,23 @@
 ---
 layout: post
-title: Project
+title: Ask Snoo Anything
 description: a project with a background image
-img: /img/1.jpg
+img: /img/ana.JPG
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
-
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
-	---
+An Android application which listens to the user's voice and responds by displaying and reading aloud related, amusing Reddit comments.
 
 
-<div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	This image can also have a caption. It's like magic. 
-</div>
+<b>What I learned: </b>
+- Leveraging existing tools is really helpful! We used an API which returns Reddit comments given a list of words they should contain made by Reddit user Stuck_In_the_Matrix, and Indico's machine learning APIs.
+- It's helpful to get outside input from potential users frequently. Our team did this every one to two weeks and it was very helpful in guiding our development.
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
+<b>Website: </b>: <a href="https://github.com/davidabrahams/Hi-Reddit">On GitHub</a>
 
+<b>For: </b>Mobile Prototyping course
 
-<div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+<b>During: </b>Fall 2015
 
+<b>Collaborators: </b>David Abrahams, Yuzhong Huang, and Nora Mohamed
 
-<br/><br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
-
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
-	</div>
+<b>Skills: </b>Java, Android development and build tools, user experience design 
