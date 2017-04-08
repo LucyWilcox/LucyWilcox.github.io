@@ -1,19 +1,19 @@
 ---
 layout: post
 title: Polymorphic Typed Language
-description: a project with a background image
-img: /img/1.jpg
+description: 
+img:
 ---
 
-Created an explict parametric polymorphic typed language that can be used via a shell interface. Previously in this class we created several different interpreters and parsers. My partner and I built off of this work to create a language which checks types before evaluating. 
+Created an explicit parametric polymorphic typed language that can be used via a shell interface. Previously in this class we created several different interpreters and parsers. My partner and I built off of this work to create a language which checks types before evaluating. The language is built on top of Python.
 
-It can compute imputs such as
+It can compute inputs such as:
 
 	---
 	(+ 3 4)  -> 7
 	---
 
-But will reject
+But will reject:
 
 	---
 	(+ 3 false) -> error
@@ -31,7 +31,7 @@ The language can also handle first class functions.
 	(map (map true istrue) add1)  -> error
 	---
 
-Generic types can also be used
+And generic types.
 
 	---
 	(defun map2 (a b) ((-> (<T>) <S>) <T>) (a b))
@@ -48,9 +48,9 @@ Generic types can also be used
 
 <b>What I learned:</b>
 - Parsing can be very difficult
--aoeeu
+- aoeeu
 
-<b>Website: </b>: <a href="https://github.com/LucyWilcox/PL-2016/blob/master/final.py">On GitHub</a>
+<b>Website: </b> <a href="https://github.com/LucyWilcox/PL-2016/blob/master/final.py">On GitHub</a>
 
 <b>For: </b>Programing Languages course
 
