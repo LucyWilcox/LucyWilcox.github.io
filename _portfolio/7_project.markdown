@@ -1,55 +1,56 @@
 ---
 layout: post
-title: Project
+title: Polymorphic Typed Language
 description: a project with a background image
 img: /img/1.jpg
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+Created an explict parametric polymorphic typed language that can be used via a shell interface. Previously in this class we created several different interpreters and parsers. My partner and I built off of this work to create a language which checks types before evaluating. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
-
+It can compute imputs such as:
 	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
+	(+ 3 4)  -> 7
 	---
 
+But will reject:
+	---
+	(+ 3 false) -> error
+	---
+And return an error code.
 
-<div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	This image can also have a caption. It's like magic. 
-</div>
+The language can also handle first class functions.
+	---
+	(defun add1 (a) ( int) (+ a 1) )
+	(defun istrue (a) ( bool) true )
+	(defun map (a b) (<T> (-> (<T>) <S>)) (b a))
+	(map (map 3 add1) add1)   -> 5
+	(map (map true istrue) add1)  -> error
+	---
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
-
-
-<div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-<br/><br/><br/>
+Generic types can also be used:
+	---
+	(defun map2 (a b) ((-> (<T>) <S>) <T>) (a b))
+	(map2 add1 (map2 add1 3))   -> 5
+	(map2 add1 (map2 istrue true))  -> error
+	(defun curry (f) ((-> (<S> <T>) <U>)) (function (a) (<S>) (function (b) (<T>) (f a b))))
+	(curry +)
+	(defun pair (x y) (<T> <S>) (function (f) ((-> (<T> <S>) <U>)) (f x y)))
+	(defun sum (a b) (int int) (+ a b)) 
+	(defun test1 () () ((pair 3 4) sum))    -> This should pass
+	(defun test2 () () ((pair 3 false) sum))    -> This should fail
+	---
 
 
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
+<b>What I learned:</b>
+-aoeu
+-aoeeu
 
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
-	</div>
+<b>Website: </b>: <a href="https://github.com/LucyWilcox/PL-2016/blob/master/final.py">On GitHub</a>
+
+<b>For: </b>Programing Languages course
+
+<b>During: </b>Fall 2016
+
+<b>Collaborators: </b>Xiaofan Wu
+
+<b>Skills: </b>Python, programing language design
