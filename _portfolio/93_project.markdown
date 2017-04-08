@@ -9,7 +9,7 @@ During my gap year at before college I worked at several different jobs, this in
 
 I coordinated trainings, transportation, race logistics, and managed the team's budget.
 
-The team went on to have a great year!
+The team went on to have a great year! 
 
 <b>What I learned </b>
 - It's important to make sure you stay in contact with all the different parties you're working with to make sure plans run smoothly

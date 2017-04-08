@@ -1,55 +1,24 @@
 ---
 layout: post
-title: Project
-description: a project with a background image
-img: /img/1.jpg
+title: Human Powered Vehicles
+description: Project Manager
+img: /img/2016team.jpg
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+I've been involved with Human Powered Vehicles (HPV) since I arrived at Olin. In the past three years, I’ve helped design and manufacture a prone (superman) bike, created vehicle fairings out of carbon fiber and epoxy, and most recently lead the fairing and materials exploration sub-team. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
+In the fall of 2016, as lead of the materials exploration team, I explored new materials which could be used in place of carbon fiber. With fewer team members than previous years and a smaller budget, I worked to find a way to create a faring under these constraints. Another goal the team had was to create a more environmentally friendly faring as carbon fiber is both taxing on the environment and the lungs of us when we work with it! I brew kombucha myself and after doing some research realized I could dry the SCOBY, which forms on top of the kombucha, to create a leather like material which is cheap and light. Next we started growing SCOBY cultures in large bins and even a swimming pool. In the spring I left to study abroad in Copenhagen and it remains to be seen if SCOBY has worked or if the team is using canvas as back up material. Regardless I’ll be rooting for the team at the competition later this spring.
 
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
-	---
+<b>What I learned: </b>
+- How to get a team excited about my seemingly crazy ideas!
+- How the mechanical engineering process works. I think it's good to know, even as a software engineer.
 
+<b>Website: </b> <a href="http://hpv.olin.edu/">Olin Human Powered Vehicles</a>
 
-<div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	This image can also have a caption. It's like magic. 
-</div>
+<b>For: </b>Human Powered Vehicles Club
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
+<b>During: </b> 2014 - present
 
+<b>Collaborators: </b>The HPV team!
 
-<div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-<br/><br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
-
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
-	</div>
+<b>Skills: </b>composites manufacturing, project management, biomaterials, Solidworks
