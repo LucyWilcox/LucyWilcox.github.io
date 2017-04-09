@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Medium is the New Tab
-description: a project with a background image
+description: Sharing images with your friends
 img: /img/mnt.png
 ---
 
@@ -17,7 +17,7 @@ A Google Chrome extension that allow groups or couples to see the same image as 
 - <a href="https://github.com/jwjimmy/aquamushroom">frontend on GitHub</a> 
 - <a href="https://github.com/LucyWilcox/mushroomspores">backend on GitHub</a> 
 
-<b>For: </b>Personal project
+<b>For: </b>personal project
 
 <b>During: </b>2016 - current
 
