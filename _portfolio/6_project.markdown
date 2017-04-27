@@ -1,55 +1,35 @@
 ---
 layout: post
-title: Project
-description: a project with no image
-img: 
+title: Bike'N'Chill
+description: A bike attachment and webapp to help you achieve your goals
+img: /img/bac7.JPG
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+Bike & Chill incentivizes exercise by tracking mileage travelled on a bike and connecting that data to your computer.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
-
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: {{ site.baseurl }}/img/12.jpg
-	---
+With a Chrome extension, you can block sites like Netflix or Facebook where the sites only unlock once you've biked your set distance.
 
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
+	<img class="col three" src="{{ site.baseurl }}/img/bac1.png" alt="" title="Bike&Chill"/>
 </div>
 <div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	This image can also have a caption. It's like magic. 
-</div>
-
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
-
-
-<div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
+	How our system worked!
 </div>
 
 
-<br/><br/><br/>
+<b>What I learned:</b>
+- When working on projects with many different elements (in this case, mechanical, electrical, and software) it makes life easier if they are all integrated each step along the way
+- It's important to research and make sure you are using the right tool before moving forward
 
+<b>Website: </b> 
+- <a href="http://bikenchill.weebly.com/">Project Website</a>
+- <a href="https://github.com/POE-Fall-2015">On Github</a>
 
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
+<b>For: </b>Principles of Engineering
 
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
-	</div>
+<b>During: </b>Fall 2015
+
+<b>Collaborators: </b> Dennis Chen, Jennifer Wei, Maggie Jakus, Arjun Bhatnagar
+
+<b>Skills: </b> Chrome extensions, jQuery, Express, Bootstrap, MongoDB
