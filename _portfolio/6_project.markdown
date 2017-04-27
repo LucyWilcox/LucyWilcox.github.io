@@ -10,9 +10,9 @@ Bike & Chill incentivizes exercise by tracking mileage travelled on a bike and c
 With a Chrome extension, you can block sites like Netflix or Facebook where the sites only unlock once you've biked your set distance.
 
 
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/bac1.png" alt="" title="Bike&Chill"/>
-</div>
+
+<img class="col three" src="{{ site.baseurl }}/img/bac1.png" alt="" title="Bike&Chill"/>
+
 <div class="col three caption">
 	How our system worked!
 </div>
