@@ -19,6 +19,8 @@ Hi! I'm Lucy, a senior at Franklin W. Olin College of Engineering, a small schoo
 
 This summer I'm interning with Google as an Associate Product Manager.
 
+Feel free to contact through any of the links below. 
+
 <br/>
 <hr/>
 <br/>
