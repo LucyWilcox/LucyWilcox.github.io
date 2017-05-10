@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Random Recipe Generator
-description: unique recipes based on ingredients commonly used together
+description: Unique recipes based on ingredients commonly used together
 img: /img/GUIRecipe.png
 ---
 
