@@ -27,7 +27,7 @@ Joan’s specific challenges with gardening as she has gotten older have most no
 
 
 <b>What I learned:</b>
-- Spending time empathizing with those you are designing for is very important. This allowed us to realize that though certain solutions like a raised bed would help Joan garden they change the aesthetics of her garden that she valued greatly
+- Spending time empathizing with those you are designing for is very important. This allowed us to realize that though certain solutions like a raised bed would help Joan garden they change the aesthetics of her garden that she values
 - Having a list of non-negotiable functional requirements is useful to have and refer to frequently
 - If possible, chose materials that you can prototype quickly with – cardboard was great as we could make changes in the moment with Joan present and get feedback on them 
 
@@ -42,4 +42,4 @@ Joan’s specific challenges with gardening as she has gotten older have most no
 
 <b>Collaborators: </b>Oliva Duggan and Matt Ruehle
 
-<b>Skills: </b> Codesign, CAD
+<b>Skills: </b> Codesign, CAD, cardboard furniture construction
